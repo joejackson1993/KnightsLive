@@ -1,18 +1,17 @@
 # KnightsLive
 
-You can view a demo of the app hosted here:
-https://obscure-fjord-71440.herokuapp.com/
+You can view a demo of the app hosted here: [Knights Live Demo](https://obscure-fjord-71440.herokuapp.com/)
 
 To login, enter 'login' as the email and leave the password blank.
 
 ## Login Screen
-![Logiin Screen](KnightsLiveLogin.png)
+<img src="KnightsLiveLogin.png" height="700px">
 
 ## Main Screen
-![Main Screen](KnightsLiveMain.png)
+<img src="KnightsLiveMain.png" height="700px">
 
 ## Side Menu
-![Side Menu](KnightsLiveMenu.png)
+<img src="KnightsLiveMenu.png" height="700px">
 
 ## Video Screen
-![Video Screen](KnightsLiveVideo.png)
+<img src="KnightsLiveVideo.png" height="700px">
